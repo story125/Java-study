@@ -1,5 +1,5 @@
 
-public class HelloJava {
+public class javaday_1 {
 
 	public static void main(String[] args) {
 // "+" 연산자는 "+" 연산자의 양쪽에 모두 숫자가 나올 경우 덧셈을 하고, 한 쪽이라도 문자열이 나오면 문자열을 연결하는 연결 연산자로 사용된다.
@@ -38,8 +38,8 @@ public class HelloJava {
 //		0 : 출력할 전체 자리수가 지정될 경우 왼쪽에 남는 자리에 1을 채워 출력한다.
 //		n : 출력할 전체 자리수
 //		.m : 소수점 아래 자리수, 잘리는 자리에서 반올림시켜 출력한다. 원래 데이터 값은 변경되지 않는다.
-		System.out.printf("5 + 3 = %d", 5 + 3);
-		
+		System.out.printf("5 / 3 = %d", 5 + 3);
+
 
 	}
 }
