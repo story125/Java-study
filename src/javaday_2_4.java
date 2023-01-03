@@ -17,7 +17,7 @@ public class javaday_2_4 {
 		System.out.println("무조건 대문자로 출력: "+ str.toUpperCase());
 //		toLowerCase() : 영문자를 무조건 소문자로 변경한다.
 		System.out.println("무조건 소문자로 출력: "+ str.toLowerCase());
-		
+//		charAt(index) : 문자열에서 index 번째 문자 1문자를 얻어온다. 문자의 위치는 0번 째 부터
 		System.out.println("3번째 문자: "+str.charAt(2));
 		
 		
