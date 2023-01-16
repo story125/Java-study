@@ -21,7 +21,7 @@ public class javaday_5_4 {
 		sum = i = 0;		// 변수를 선언할 때는 사용할 수 없다.
 		
 		do {
-			sum+=i++;
+			sum+=++i;
 		}while(i<100);
 		System.out.println("1~100 합계: "+sum);
 		
